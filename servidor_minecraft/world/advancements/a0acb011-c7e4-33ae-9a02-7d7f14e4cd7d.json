@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-08-28 23:26:31 +0000",
       "minecraft:forest": "2025-08-28 23:25:50 +0000",
+      "minecraft:cherry_grove": "2025-08-29 21:48:45 +0000",
       "minecraft:river": "2025-08-29 21:29:22 +0000",
       "minecraft:grove": "2025-08-28 23:33:14 +0000",
       "minecraft:meadow": "2025-08-28 23:26:17 +0000",
@@ -1013,6 +1014,12 @@
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-08-29 21:28:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trade": {
+    "criteria": {
+      "traded": "2025-08-29 21:45:54 +0000"
     },
     "done": true
   },
