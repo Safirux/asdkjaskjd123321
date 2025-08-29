@@ -296,7 +296,8 @@
     "criteria": {
       "mutton": "2025-08-29 22:41:21 +0000",
       "chicken": "2025-08-29 22:32:43 +0000",
-      "bread": "2025-08-29 22:39:37 +0000"
+      "bread": "2025-08-29 22:39:37 +0000",
+      "rotten_flesh": "2025-08-29 23:47:48 +0000"
     },
     "done": false
   },
@@ -663,6 +664,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-08-29 22:54:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-08-29 23:52:53 +0000"
     },
     "done": true
   },
