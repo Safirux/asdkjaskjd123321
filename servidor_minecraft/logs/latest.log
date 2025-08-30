@@ -102,3 +102,13 @@
 [21:51:20] [Server thread/INFO]: juan[/127.172.186.223:43187] logged in with entity id 399 at ([world]92.69999998807907, -53.0, -361.5946101381928)
 [21:58:37] [Async Chat Thread - #1/INFO]: [Not Secure] <TheSafirux> xd
 [22:18:30] [Async Chat Thread - #2/INFO]: [Not Secure] <TheSafirux> juanito?
+[22:20:32] [User Authenticator #1/INFO]: UUID of player TwInK_Lan is 06c6f690-ee71-382a-96c4-5e3ccc2218b2
+[22:20:33] [Server thread/INFO]: TwInK_Lan joined the game
+[22:20:33] [Server thread/INFO]: TwInK_Lan[/127.155.90.106:33855] logged in with entity id 5724 at ([world]-29.5, 111.0, -22.5)
+[22:21:56] [Async Chat Thread - #3/INFO]: [Not Secure] <TwInK_Lan> :)
+[22:22:24] [Server thread/INFO]: TwInK_Lan lost connection: Disconnected
+[22:22:24] [Server thread/INFO]: [voicechat] Disconnecting client TwInK_Lan
+[22:22:24] [Server thread/INFO]: TwInK_Lan left the game
+[22:25:15] [Server thread/INFO]: juan lost connection: Disconnected
+[22:25:15] [Server thread/INFO]: [voicechat] Disconnecting client juan
+[22:25:15] [Server thread/INFO]: juan left the game
