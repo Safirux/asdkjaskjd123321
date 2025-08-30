@@ -1532,9 +1532,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-08-30 01:28:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_bricks": {
     "criteria": {
       "has_polished_deepslate": "2025-08-30 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-08-30 01:24:17 +0000"
     },
     "done": true
   },

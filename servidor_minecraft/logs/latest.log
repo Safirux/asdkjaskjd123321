@@ -155,3 +155,39 @@
 [01:15:17] [Async Chat Thread - #121/INFO]: [Not Secure] <TheSafirux> ah
 [01:20:24] [Server thread/INFO]: Villager Villager['Villager'/241, uuid='856cd6d2-3aeb-46ef-8262-40d37f2cca97', l='ServerLevel[world]', x=94.55, y=103.00, z=151.43, cpos=[5, 9], tl=102936, v=true] died, message: 'Villager was slain by Zombie'
 [01:24:17] [Server thread/INFO]: TheSafirux has made the advancement [Best Friends Forever]
+[01:33:31] [Async Chat Thread - #122/INFO]: [Not Secure] <TheSafirux> -
+[01:33:43] [Server thread/INFO]: Stopping the server
+[01:33:43] [Server thread/INFO]: Stopping server
+[01:33:43] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.7.10
+[01:33:43] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.3-SNAPSHOT
+[01:33:43] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[01:33:43] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[01:33:43] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.36
+[01:33:43] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.3-SNAPSHOT
+[01:33:43] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[01:33:43] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.5.0-SNAPSHOT
+[01:33:43] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[01:33:43] [Server thread/INFO]: Saving players
+[01:33:43] [Server thread/INFO]: TheSafirux lost connection: Server closed
+[01:33:43] [Server thread/INFO]: TheSafirux left the game
+[01:33:43] [WebSocketConnectReadThread-95/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[01:33:43] [Server thread/INFO]: Saving worlds
+[01:33:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:33:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:33:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:33:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:33:43] [Server thread/INFO]: [ChunkHolderManager] Saved 48 block chunks, 371 entity chunks, 3 poi chunks in world 'world' in 0.18s
+[01:33:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:33:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:33:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:33:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:33:43] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 5 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
+[01:33:43] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:33:43] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:33:43] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:33:43] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:33:43] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[01:33:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:33:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:33:43] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:33:43] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
