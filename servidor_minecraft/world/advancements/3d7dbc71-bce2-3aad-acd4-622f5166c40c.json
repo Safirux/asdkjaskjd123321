@@ -195,7 +195,9 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-08-28 23:35:19 +0000",
-      "cooked_mutton": "2025-08-29 00:06:56 +0000"
+      "cooked_mutton": "2025-08-29 00:06:56 +0000",
+      "potato": "2025-08-30 00:27:00 +0000",
+      "carrot": "2025-08-30 00:27:56 +0000"
     },
     "done": false
   },
@@ -1552,6 +1554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-08-30 00:26:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/silence_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-08-29 23:39:27 +0000"
@@ -1570,6 +1578,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-08-30 00:26:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-30 00:07:04 +0000"
@@ -1585,6 +1599,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-30 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-08-30 00:26:46 +0000"
     },
     "done": true
   },
@@ -1609,6 +1629,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab": {
     "criteria": {
       "has_deepslate_tiles": "2025-08-30 00:07:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-08-30 00:26:53 +0000"
     },
     "done": true
   },
