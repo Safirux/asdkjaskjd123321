@@ -112,3 +112,48 @@
 [22:25:15] [Server thread/INFO]: juan lost connection: Disconnected
 [22:25:15] [Server thread/INFO]: [voicechat] Disconnecting client juan
 [22:25:15] [Server thread/INFO]: juan left the game
+[22:34:36] [User Authenticator #2/INFO]: UUID of player Wizz1338 is 342eba4a-8f6b-3c14-baba-56ab057e0ff1
+[22:34:36] [Server thread/INFO]: Wizz1338 joined the game
+[22:34:36] [Server thread/INFO]: Wizz1338[/127.58.155.169:59205] logged in with entity id 7749 at ([world]-29.5, 104.0, -37.5)
+[22:34:37] [Server thread/WARN]: Wizz1338 moved too quickly! 0.0,-59.0312999,0.0
+[22:34:39] [Server thread/WARN]: Wizz1338 moved too quickly! 3.1253410646851556,19.208096836853045,5.735972332374033
+[22:34:45] [Async Chat Thread - #5/INFO]: [Not Secure] <Wizz1338> Привет
+[22:34:47] [Async Chat Thread - #5/INFO]: [Not Secure] <Wizz1338> hi
+[22:35:03] [Server thread/WARN]: Wizz1338 moved too quickly! 0.3130748655925153,8.644561096811302,-6.850217154325101
+[22:35:03] [Server thread/WARN]: Wizz1338 moved too quickly! 0.6757362197408909,19.20809683685303,-9.61018681355732
+[22:35:04] [Server thread/WARN]: Wizz1338 moved too quickly! 0.9024414278076272,0.0,-12.25518249709205
+[22:35:04] [Server thread/WARN]: Wizz1338 moved too quickly! 0.4236433792886949,-0.08446146490747708,-12.438809361169234
+[22:35:15] [Server thread/WARN]: Wizz1338 moved too quickly! 0.13673082965519257,9.765033409238157,-3.3098578147371
+[22:35:34] [Async Chat Thread - #5/INFO]: [Not Secure] <TheSafirux> Hola
+[22:35:38] [Async Chat Thread - #5/INFO]: [Not Secure] <TheSafirux> Quien eres?
+[22:35:58] [Async Chat Thread - #5/INFO]: [Not Secure] <TheSafirux> -
+[22:36:11] [Async Chat Thread - #5/INFO]: [Not Secure] <TheSafirux> Que raro tener un random aqui
+[22:36:14] [Async Chat Thread - #5/INFO]: [Not Secure] <Wizz1338> Just a player
+[22:36:28] [Async Chat Thread - #5/INFO]: [Not Secure] <Wizz1338> and i dont speak Spain
+[22:36:30] [Server thread/WARN]: Wizz1338 moved too quickly! -8.61104514015912,0.133232308971742,5.622277231019552
+[22:36:34] [Server thread/WARN]: Wizz1338 moved too quickly! -4.895982291614416,0.020199893052421203,8.984047240855006
+[22:36:36] [Async Chat Thread - #5/INFO]: [Not Secure] <TheSafirux> de verdad?
+[22:36:41] [Async Chat Thread - #5/INFO]: [Not Secure] <TheSafirux> uhm
+[22:37:02] [Async Chat Thread - #5/INFO]: [Not Secure] <Wizz1338> im use translator
+[22:37:11] [Async Chat Thread - #5/INFO]: [Not Secure] <TheSafirux> russia?
+[22:37:14] [Async Chat Thread - #6/INFO]: [Not Secure] <Wizz1338> а так я русский ваще епта нахуй\
+[22:37:27] [Server thread/INFO]: Wizz1338 has made the advancement [Diamonds!]
+[22:37:32] [Async Chat Thread - #6/INFO]: [Not Secure] <TheSafirux> oh
+[22:37:35] [Async Chat Thread - #6/INFO]: [Not Secure] <TheSafirux> ,
+[22:37:42] [Server thread/INFO]: Wizz1338 has made the advancement [Suit Up]
+[22:37:44] [Server thread/INFO]: Wizz1338 has made the advancement [Cover Me with Diamonds]
+[22:37:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
+/op TheSafirux<--[HERE]
+[22:37:57] [Server thread/INFO]: Made TheSafirux a server operator
+[22:38:04] [Async Chat Thread - #6/INFO]: [Not Secure] <Wizz1338> cool farm
+[22:38:04] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[22:38:04] [Server thread/INFO]: [TheSafirux: Set own game mode to Spectator Mode]
+[22:38:12] [Server thread/INFO]: TheSafirux issued server command: /tp Wizz1338
+[22:38:12] [Server thread/INFO]: [TheSafirux: Teleported TheSafirux to Wizz1338]
+[22:38:18] [Server thread/INFO]: TheSafirux issued server command: /kick Wizz1338
+[22:38:18] [Server thread/INFO]: Wizz1338 lost connection: Kicked by an operator
+[22:38:18] [Server thread/INFO]: [voicechat] Disconnecting client Wizz1338
+[22:38:18] [Server thread/INFO]: Wizz1338 left the game
+[22:38:18] [Server thread/INFO]: [TheSafirux: Kicked Wizz1338: Kicked by an operator]
+[22:38:26] [Server thread/INFO]: TheSafirux issued server command: /gamemode creative
+[22:38:26] [Server thread/INFO]: [TheSafirux: Set own game mode to Creative Mode]
