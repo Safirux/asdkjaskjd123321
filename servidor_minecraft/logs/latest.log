@@ -153,3 +153,5 @@
 [01:14:42] [Server thread/INFO]: [voicechat] Disconnecting client .Crosby803
 [01:14:42] [Server thread/INFO]: .Crosby803 left the game
 [01:15:17] [Async Chat Thread - #121/INFO]: [Not Secure] <TheSafirux> ah
+[01:20:24] [Server thread/INFO]: Villager Villager['Villager'/241, uuid='856cd6d2-3aeb-46ef-8262-40d37f2cca97', l='ServerLevel[world]', x=94.55, y=103.00, z=151.43, cpos=[5, 9], tl=102936, v=true] died, message: 'Villager was slain by Zombie'
+[01:24:17] [Server thread/INFO]: TheSafirux has made the advancement [Best Friends Forever]
