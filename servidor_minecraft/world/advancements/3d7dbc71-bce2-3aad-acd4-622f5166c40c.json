@@ -194,6 +194,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "apple": "2025-08-30 00:41:30 +0000",
       "bread": "2025-08-28 23:35:19 +0000",
       "cooked_mutton": "2025-08-29 00:06:56 +0000",
       "potato": "2025-08-30 00:27:00 +0000",
@@ -1542,6 +1543,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-08-30 00:40:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-08-30 00:07:06 +0000"
@@ -1611,6 +1618,12 @@
   "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
     "criteria": {
       "has_polished_deepslate": "2025-08-30 00:07:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-08-30 00:39:12 +0000"
     },
     "done": true
   },
