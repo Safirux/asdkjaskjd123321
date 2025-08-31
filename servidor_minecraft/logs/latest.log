@@ -157,3 +157,27 @@
 [23:23:40] [Server thread/INFO]: TheSafirux issued server command: /effect give @a minecraft:darkness 10 1 true
 [23:25:29] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:ambient.cave master @a ~ ~ ~ 2 1
 [23:26:34] [Server thread/INFO]: TheSafirux issued server command: /tp juan
+[23:27:39] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:ambient.cave master @a ~ ~ ~ 2 1
+[23:27:51] [Server thread/INFO]: TheSafirux issued server command: /effect give @a minecraft:darkness 10 1 true
+[23:28:25] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[23:28:32] [Server thread/INFO]: TheSafirux issued server command: /gamemode creative
+[23:28:39] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[23:28:42] [Server thread/INFO]: TheSafirux issued server command: /gamemode creative
+[23:29:01] [Server thread/INFO]: TheSafirux issued server command: /effect give @a minecraft:darkness 10 1 true
+[23:31:19] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[23:31:30] [Server thread/INFO]: TheSafirux issued server command: /gamemode creative
+[23:31:34] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[23:31:41] [Server thread/INFO]: TheSafirux issued server command: /gamemode creative
+[23:31:46] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[23:31:55] [Server thread/INFO]: TheSafirux issued server command: /gamemode creative
+[23:32:00] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[23:32:13] [Server thread/INFO]: TheSafirux issued server command: /gamemode creative
+[23:32:14] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[23:32:31] [Server thread/INFO]: TheSafirux issued server command: /gamemode creative
+[23:32:45] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[23:33:26] [Server thread/INFO]: TheSafirux issued server command: /gamemode creative
+[23:33:42] [Server thread/INFO]: TheSafirux issued server command: /effect clear TheSafirux
+[23:33:46] [Server thread/INFO]: TheSafirux issued server command: /gamemode survival
+[23:34:07] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[23:34:33] [Server thread/INFO]: TheSafirux issued server command: /gamemode survival
+[23:34:56] [Server thread/INFO]: TheSafirux has made the advancement [Ice Bucket Challenge]
