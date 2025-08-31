@@ -118,3 +118,32 @@
 [22:55:53] [Server thread/INFO]: TheSafirux issued server command: /gamerule commandBlockOutput false
 [22:55:53] [Server thread/INFO]: [TheSafirux: Gamerule commandBlockOutput is now set to: false]
 [22:56:19] [Server thread/INFO]: TheSafirux issued server command: /gamerule logAdminCommands false
+[22:57:11] [Server thread/INFO]: TheSafirux issued server command: /team add Hola
+[22:57:22] [Server thread/INFO]: TheSafirux issued server command: /team join Hola TheSafirux
+[22:57:42] [Server thread/INFO]: TheSafirux issued server command: /team modify Hola nametagVisibility never
+[22:59:09] [Server thread/INFO]: TheSafirux issued server command: /tp juan
+[23:02:07] [Server thread/INFO]: TheSafirux issued server command: /effect give TheSafirux minecraft:invisibility infinite 100 true
+[23:02:12] [Server thread/INFO]: TheSafirux issued server command: /gamemode creative
+[23:05:00] [Server thread/INFO]: juan has made the advancement [Ice Bucket Challenge]
+[23:07:08] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:ambient.cave player juan ~ ~ ~ 1 1
+[23:07:17] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[23:07:31] [Server thread/INFO]: TheSafirux issued server command: /tp TheSafirux
+[23:07:44] [Server thread/INFO]: TheSafirux issued server command: /gamemode creative
+[23:07:49] [Server thread/INFO]: TheSafirux issued server command: /tp juan
+[23:07:52] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:ambient.cave player juan ~ ~ ~ 1 1
+[23:08:26] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:music.overworld.jungle_and_bamboo player juan ~ ~ ~ 0.2 1
+[23:09:46] [Server thread/INFO]: TheSafirux issued server command: /tp juan
+[23:10:23] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:ambient.cave master @a ~ ~ ~ 0.1 1
+[23:10:38] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:ambient.cave master @a ~ ~ ~ 1 1
+[23:10:46] [Server thread/INFO]: TheSafirux issued server command: /tp juan
+[23:11:06] [Server thread/INFO]: TheSafirux issued server command: /tp juan
+[23:11:59] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:ambient.cave master @a ~ ~ ~ 1 1
+[23:13:12] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:ambient.cave master @a ~ ~ ~ 2 1
+[23:13:20] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:ambient.cave master @a ~ ~ ~ 2 1
+[23:13:43] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:entity.elder_guardian.ambient master @a ~ ~ ~ 2 1
+[23:14:22] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:block.amethyst_block.chime master @a ~ ~ ~ 2 1
+[23:14:28] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:block.amethyst_block.chime master @a ~ ~ ~ 2 1
+[23:14:36] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:block.portal.ambient master @a ~ ~ ~ 2 1
+[23:15:03] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:block.portal.ambient master @a ~ ~ ~ 2 1
+[23:15:48] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:entity.warden.ambient master @a ~ ~ ~ 2 1
+[23:16:31] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:entity.phantom.ambient master @a ~ ~ ~ 2 1
