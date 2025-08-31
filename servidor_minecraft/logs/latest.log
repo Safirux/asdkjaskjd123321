@@ -1,159 +1,110 @@
-[21:49:33] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[21:49:33] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
-[21:49:33] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:49:35] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
-[21:49:35] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (6):
+[22:16:14] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[22:16:14] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) for Minecraft 1.21
+[22:16:14] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:16:15] [ServerMain/INFO]: [PluginInitializerManager] Initialized 6 plugins
+[22:16:15] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (6):
  - Geyser-Spigot (2.8.3-SNAPSHOT), SkinsRestorer (15.7.10), ViaBackwards (5.4.3-SNAPSHOT), ViaVersion (5.5.0-SNAPSHOT), floodgate (2.2.4-SNAPSHOT (b118-40d320a)), voicechat (2.5.36)
-[21:49:41] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:49:44] [ServerMain/INFO]: Loaded 1290 recipes
-[21:49:44] [ServerMain/INFO]: Loaded 1399 advancements
-[21:49:45] [Server thread/INFO]: Starting minecraft server version 1.21
-[21:49:45] [Server thread/INFO]: Loading properties
-[21:49:45] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
-[21:49:45] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[21:49:46] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:49:46] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:49:47] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
-[21:49:47] [Server thread/INFO]: Default game type: SURVIVAL
-[21:49:47] [Server thread/INFO]: Generating keypair
-[21:49:47] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:49:47] [Server thread/INFO]: Using epoll channel type
-[21:49:47] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:49:47] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
-[21:49:49] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0-SNAPSHOT
-[21:49:49] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
-[21:49:52] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[21:49:53] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[21:49:55] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[21:49:55] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[21:49:57] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b118-40d320a)
-[21:50:00] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[21:50:00] [Server thread/INFO]: [floodgate] Took 2,276ms to boot Floodgate
-[21:50:00] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.3-SNAPSHOT
-[21:50:00] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.36
-[21:50:00] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.3-SNAPSHOT
-[21:50:02] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[21:50:02] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[21:50:02] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
-[21:50:02] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:50:02] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
-[21:50:04] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
-[21:50:05] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
-[21:50:06] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
-[21:50:06] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:50:06] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:50:06] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:50:06] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:50:06] [Server thread/INFO]: Preparing level "world"
-[21:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
-[21:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
-[21:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
-[21:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
-[21:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
-[21:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
-[21:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
-[21:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
-[21:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
-[21:50:06] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
-[21:50:06] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:50:09] [Server thread/INFO]: Time elapsed: 2487 ms
-[21:50:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:50:10] [Server thread/INFO]: Time elapsed: 766 ms
-[21:50:10] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:50:10] [Server thread/INFO]: Time elapsed: 589 ms
-[21:50:10] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0-SNAPSHOT
-[21:50:10] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
-[21:50:11] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
-[21:50:12] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.3-SNAPSHOT
-[21:50:12] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.36
-[21:50:12] [Server thread/INFO]: [voicechat] Initializing compatibility for version 1.21-R0.1
-[21:50:12] [Server thread/INFO]: [voicechat] Compatibility version 18
-[21:50:12] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[21:50:12] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
-[21:50:12] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.3-SNAPSHOT
-[21:50:18] [Server thread/INFO]: [spark] Starting background profiler...
-[21:50:19] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[21:50:19] [Server thread/INFO]: [Geyser-Spigot] 
-[21:50:19] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.3-b917 (git-master-1dc3f41)
-[21:50:19] [Server thread/INFO]: [Geyser-Spigot] 
-[21:50:19] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[21:50:27] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
-[21:50:28] [Server thread/INFO]: [Geyser-Spigot] Done (8.346s)! Run /geyser help for help!
-[21:50:28] [Server thread/INFO]: Done preparing level "world" (22.234s)
-[21:50:28] [Server thread/INFO]: Running delayed init tasks
-[21:50:28] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[21:50:28] [Server thread/INFO]: Done (56.213s)! For help, type "help"
-[21:50:28] [Server thread/INFO]: Timings Reset
-[21:50:28] [Server thread/INFO]: [voicechat] Loading plugins
-[21:50:28] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[21:50:28] [Server thread/INFO]: [voicechat] Initializing plugins
-[21:50:28] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[21:50:28] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[21:50:28] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
-[21:50:28] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
-[21:50:46] [User Authenticator #0/INFO]: UUID of player TheSafirux is 3d7dbc71-bce2-3aad-acd4-622f5166c40c
-[21:50:47] [Server thread/INFO]: TheSafirux joined the game
-[21:50:48] [Server thread/INFO]: TheSafirux[/127.251.68.0:38611] logged in with entity id 28 at ([world]-221.30000001192093, 69.875, -537.5255354867429)
-[21:51:16] [User Authenticator #0/INFO]: UUID of player juan is a0acb011-c7e4-33ae-9a02-7d7f14e4cd7d
-[21:51:20] [Server thread/INFO]: juan joined the game
-[21:51:20] [Server thread/INFO]: juan[/127.172.186.223:43187] logged in with entity id 399 at ([world]92.69999998807907, -53.0, -361.5946101381928)
-[21:58:37] [Async Chat Thread - #1/INFO]: [Not Secure] <TheSafirux> xd
-[22:18:30] [Async Chat Thread - #2/INFO]: [Not Secure] <TheSafirux> juanito?
-[22:20:32] [User Authenticator #1/INFO]: UUID of player TwInK_Lan is 06c6f690-ee71-382a-96c4-5e3ccc2218b2
-[22:20:33] [Server thread/INFO]: TwInK_Lan joined the game
-[22:20:33] [Server thread/INFO]: TwInK_Lan[/127.155.90.106:33855] logged in with entity id 5724 at ([world]-29.5, 111.0, -22.5)
-[22:21:56] [Async Chat Thread - #3/INFO]: [Not Secure] <TwInK_Lan> :)
-[22:22:24] [Server thread/INFO]: TwInK_Lan lost connection: Disconnected
-[22:22:24] [Server thread/INFO]: [voicechat] Disconnecting client TwInK_Lan
-[22:22:24] [Server thread/INFO]: TwInK_Lan left the game
-[22:25:15] [Server thread/INFO]: juan lost connection: Disconnected
-[22:25:15] [Server thread/INFO]: [voicechat] Disconnecting client juan
-[22:25:15] [Server thread/INFO]: juan left the game
-[22:34:36] [User Authenticator #2/INFO]: UUID of player Wizz1338 is 342eba4a-8f6b-3c14-baba-56ab057e0ff1
-[22:34:36] [Server thread/INFO]: Wizz1338 joined the game
-[22:34:36] [Server thread/INFO]: Wizz1338[/127.58.155.169:59205] logged in with entity id 7749 at ([world]-29.5, 104.0, -37.5)
-[22:34:37] [Server thread/WARN]: Wizz1338 moved too quickly! 0.0,-59.0312999,0.0
-[22:34:39] [Server thread/WARN]: Wizz1338 moved too quickly! 3.1253410646851556,19.208096836853045,5.735972332374033
-[22:34:45] [Async Chat Thread - #5/INFO]: [Not Secure] <Wizz1338> Привет
-[22:34:47] [Async Chat Thread - #5/INFO]: [Not Secure] <Wizz1338> hi
-[22:35:03] [Server thread/WARN]: Wizz1338 moved too quickly! 0.3130748655925153,8.644561096811302,-6.850217154325101
-[22:35:03] [Server thread/WARN]: Wizz1338 moved too quickly! 0.6757362197408909,19.20809683685303,-9.61018681355732
-[22:35:04] [Server thread/WARN]: Wizz1338 moved too quickly! 0.9024414278076272,0.0,-12.25518249709205
-[22:35:04] [Server thread/WARN]: Wizz1338 moved too quickly! 0.4236433792886949,-0.08446146490747708,-12.438809361169234
-[22:35:15] [Server thread/WARN]: Wizz1338 moved too quickly! 0.13673082965519257,9.765033409238157,-3.3098578147371
-[22:35:34] [Async Chat Thread - #5/INFO]: [Not Secure] <TheSafirux> Hola
-[22:35:38] [Async Chat Thread - #5/INFO]: [Not Secure] <TheSafirux> Quien eres?
-[22:35:58] [Async Chat Thread - #5/INFO]: [Not Secure] <TheSafirux> -
-[22:36:11] [Async Chat Thread - #5/INFO]: [Not Secure] <TheSafirux> Que raro tener un random aqui
-[22:36:14] [Async Chat Thread - #5/INFO]: [Not Secure] <Wizz1338> Just a player
-[22:36:28] [Async Chat Thread - #5/INFO]: [Not Secure] <Wizz1338> and i dont speak Spain
-[22:36:30] [Server thread/WARN]: Wizz1338 moved too quickly! -8.61104514015912,0.133232308971742,5.622277231019552
-[22:36:34] [Server thread/WARN]: Wizz1338 moved too quickly! -4.895982291614416,0.020199893052421203,8.984047240855006
-[22:36:36] [Async Chat Thread - #5/INFO]: [Not Secure] <TheSafirux> de verdad?
-[22:36:41] [Async Chat Thread - #5/INFO]: [Not Secure] <TheSafirux> uhm
-[22:37:02] [Async Chat Thread - #5/INFO]: [Not Secure] <Wizz1338> im use translator
-[22:37:11] [Async Chat Thread - #5/INFO]: [Not Secure] <TheSafirux> russia?
-[22:37:14] [Async Chat Thread - #6/INFO]: [Not Secure] <Wizz1338> а так я русский ваще епта нахуй\
-[22:37:27] [Server thread/INFO]: Wizz1338 has made the advancement [Diamonds!]
-[22:37:32] [Async Chat Thread - #6/INFO]: [Not Secure] <TheSafirux> oh
-[22:37:35] [Async Chat Thread - #6/INFO]: [Not Secure] <TheSafirux> ,
-[22:37:42] [Server thread/INFO]: Wizz1338 has made the advancement [Suit Up]
-[22:37:44] [Server thread/INFO]: Wizz1338 has made the advancement [Cover Me with Diamonds]
-[22:37:53] [Server thread/INFO]: Unknown or incomplete command, see below for error
-/op TheSafirux<--[HERE]
-[22:37:57] [Server thread/INFO]: Made TheSafirux a server operator
-[22:38:04] [Async Chat Thread - #6/INFO]: [Not Secure] <Wizz1338> cool farm
-[22:38:04] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
-[22:38:04] [Server thread/INFO]: [TheSafirux: Set own game mode to Spectator Mode]
-[22:38:12] [Server thread/INFO]: TheSafirux issued server command: /tp Wizz1338
-[22:38:12] [Server thread/INFO]: [TheSafirux: Teleported TheSafirux to Wizz1338]
-[22:38:18] [Server thread/INFO]: TheSafirux issued server command: /kick Wizz1338
-[22:38:18] [Server thread/INFO]: Wizz1338 lost connection: Kicked by an operator
-[22:38:18] [Server thread/INFO]: [voicechat] Disconnecting client Wizz1338
-[22:38:18] [Server thread/INFO]: Wizz1338 left the game
-[22:38:18] [Server thread/INFO]: [TheSafirux: Kicked Wizz1338: Kicked by an operator]
-[22:38:26] [Server thread/INFO]: TheSafirux issued server command: /gamemode creative
-[22:38:26] [Server thread/INFO]: [TheSafirux: Set own game mode to Creative Mode]
+[22:16:22] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:16:24] [ServerMain/INFO]: Loaded 1290 recipes
+[22:16:25] [ServerMain/INFO]: Loaded 1399 advancements
+[22:16:25] [Server thread/INFO]: Starting minecraft server version 1.21
+[22:16:25] [Server thread/INFO]: Loading properties
+[22:16:25] [Server thread/INFO]: This server is running Paper version 1.21-130-master@b1b5d4c (2024-08-10T10:02:42Z) (Implementing API version 1.21-R0.1-SNAPSHOT)
+[22:16:26] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[22:16:26] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:16:26] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:16:27] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and population gen parallelism of 1 threads
+[22:16:28] [Server thread/INFO]: Default game type: SURVIVAL
+[22:16:28] [Server thread/INFO]: Generating keypair
+[22:16:28] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:16:28] [Server thread/INFO]: Using epoll channel type
+[22:16:28] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:16:28] [Server thread/INFO]: Paper: Using OpenSSL 3.0.x (Linux x86_64) cipher from Velocity.
+[22:16:30] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.5.0-SNAPSHOT
+[22:16:30] [Server thread/INFO]: [ViaVersion] ViaVersion 5.5.0-SNAPSHOT is now loaded. Registering protocol transformers and injecting...
+[22:16:32] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[22:16:33] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[22:16:35] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[22:16:35] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[22:16:38] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[22:16:40] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[22:16:40] [Server thread/INFO]: [floodgate] Took 2,625ms to boot Floodgate
+[22:16:40] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.3-SNAPSHOT
+[22:16:40] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.36
+[22:16:40] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.3-SNAPSHOT
+[22:16:43] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[22:16:43] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[22:16:43] [Server thread/INFO]: [SkinsRestorer] Loading server plugin SkinsRestorer v15.7.10
+[22:16:43] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[22:16:43] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v15.7.10
+[22:16:45] [Server thread/INFO]: [SkinsRestorer] Running on Minecraft 1.21.0.
+[22:16:45] [Server thread/INFO]: [SkinsRestorer] Floodgate skin listener registered
+[22:16:46] [Server thread/INFO]: [SkinsRestorer] Using paper join listener!
+[22:16:46] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:16:46] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:16:46] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:16:46] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:16:46] [Server thread/INFO]: Preparing level "world"
+[22:16:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:16:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:16:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |   SkinsRestorer  |
+[22:16:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |------------------|
+[22:16:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     |  Standalone Mode |
+[22:16:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     +==================+
+[22:16:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:16:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Version: 15.7.10
+[22:16:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     Commit: 19ef760
+[22:16:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer]     This is the latest version!
+[22:16:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] ----------------------------------------------
+[22:16:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Do you have issues? Read our troubleshooting guide: https://skinsrestorer.net/docs/troubleshooting
+[22:16:46] [Folia Async Scheduler Thread #1/INFO]: [SkinsRestorer] Want to support SkinsRestorer? Consider donating: https://skinsrestorer.net/donate
+[22:16:47] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:16:49] [Server thread/INFO]: Time elapsed: 2094 ms
+[22:16:49] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:16:50] [Server thread/INFO]: Time elapsed: 478 ms
+[22:16:50] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:16:50] [Server thread/INFO]: Time elapsed: 209 ms
+[22:16:50] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.5.0-SNAPSHOT
+[22:16:50] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21-1.21.1 (767)
+[22:16:50] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[22:16:51] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.3-SNAPSHOT
+[22:16:51] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.36
+[22:16:52] [Server thread/INFO]: [voicechat] Initializing compatibility for version 1.21-R0.1
+[22:16:52] [Server thread/INFO]: [voicechat] Compatibility version 18
+[22:16:52] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[22:16:52] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
+[22:16:52] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.3-SNAPSHOT
+[22:16:57] [Server thread/INFO]: [spark] Starting background profiler...
+[22:16:59] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[22:16:59] [Server thread/INFO]: [Geyser-Spigot] 
+[22:16:59] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.3-b917 (git-master-1dc3f41)
+[22:16:59] [Server thread/INFO]: [Geyser-Spigot] 
+[22:16:59] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[22:17:09] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 19132
+[22:17:09] [Server thread/INFO]: [Geyser-Spigot] Done (10.44s)! Run /geyser help for help!
+[22:17:09] [Server thread/INFO]: Done preparing level "world" (23.170s)
+[22:17:09] [Server thread/INFO]: Running delayed init tasks
+[22:17:09] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[22:17:09] [Server thread/INFO]: Done (56.476s)! For help, type "help"
+[22:17:09] [Server thread/INFO]: Timings Reset
+[22:17:09] [Server thread/INFO]: [voicechat] Loading plugins
+[22:17:09] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[22:17:09] [Server thread/INFO]: [voicechat] Initializing plugins
+[22:17:09] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[22:17:09] [Server thread/WARN]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[22:17:10] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 24454
+[22:17:10] [Server thread/INFO]: [ViaVersion] You are running a development version of the plugin, please report any bugs to GitHub.
+[22:18:36] [User Authenticator #0/INFO]: UUID of player juan is a0acb011-c7e4-33ae-9a02-7d7f14e4cd7d
+[22:18:38] [Server thread/INFO]: juan joined the game
+[22:18:38] [Server thread/INFO]: juan[/127.172.186.223:42955] logged in with entity id 30 at ([world]73.90534171460907, -51.0, -349.31873371385086)
+[22:20:37] [User Authenticator #1/INFO]: UUID of player TheSafirux is 3d7dbc71-bce2-3aad-acd4-622f5166c40c
+[22:20:38] [Server thread/INFO]: TheSafirux joined the game
+[22:20:38] [Server thread/INFO]: TheSafirux[/127.251.68.0:55943] logged in with entity id 512 at ([world]-222.86944706441363, 69.0, -534.8661728674032)
+[22:20:50] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[22:20:50] [Server thread/INFO]: [TheSafirux: Set own game mode to Spectator Mode]
+[22:20:51] [Server thread/INFO]: TheSafirux issued server command: /gamemode creative
+[22:20:51] [Server thread/INFO]: [TheSafirux: Set own game mode to Creative Mode]
+[22:20:54] [Server thread/INFO]: TheSafirux issued server command: /gamemode survival
+[22:20:54] [Server thread/INFO]: [TheSafirux: Set own game mode to Survival Mode]
+[22:21:00] [Server thread/INFO]: TheSafirux issued server command: /tp juan
+[22:21:00] [Server thread/INFO]: [TheSafirux: Teleported TheSafirux to juan]
