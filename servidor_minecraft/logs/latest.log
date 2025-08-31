@@ -108,3 +108,13 @@
 [22:20:54] [Server thread/INFO]: [TheSafirux: Set own game mode to Survival Mode]
 [22:21:00] [Server thread/INFO]: TheSafirux issued server command: /tp juan
 [22:21:00] [Server thread/INFO]: [TheSafirux: Teleported TheSafirux to juan]
+[22:53:30] [Server thread/INFO]: TheSafirux issued server command: /gamemode adventure
+[22:53:30] [Server thread/INFO]: [TheSafirux: Set own game mode to Adventure Mode]
+[22:53:44] [Server thread/INFO]: TheSafirux issued server command: /gamemode survival
+[22:53:44] [Server thread/INFO]: [TheSafirux: Set own game mode to Survival Mode]
+[22:53:52] [Server thread/INFO]: juan has made the advancement [Hot Stuff]
+[22:55:40] [Server thread/INFO]: TheSafirux issued server command: /gamerule sendCommandFeedback false
+[22:55:40] [Server thread/INFO]: [TheSafirux: Gamerule sendCommandFeedback is now set to: false]
+[22:55:53] [Server thread/INFO]: TheSafirux issued server command: /gamerule commandBlockOutput false
+[22:55:53] [Server thread/INFO]: [TheSafirux: Gamerule commandBlockOutput is now set to: false]
+[22:56:19] [Server thread/INFO]: TheSafirux issued server command: /gamerule logAdminCommands false
