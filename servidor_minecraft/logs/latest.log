@@ -181,3 +181,18 @@
 [23:34:07] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
 [23:34:33] [Server thread/INFO]: TheSafirux issued server command: /gamemode survival
 [23:34:56] [Server thread/INFO]: TheSafirux has made the advancement [Ice Bucket Challenge]
+[23:39:24] [Server thread/INFO]: juan has made the advancement [We Need to Go Deeper]
+[23:39:24] [Server thread/INFO]: TheSafirux has made the advancement [We Need to Go Deeper]
+[23:43:08] [Server thread/INFO]: TheSafirux issued server command: /tp 16 ~ 96
+[23:43:09] [Server thread/INFO]: TheSafirux has made the advancement [Those Were the Days]
+[23:43:20] [Server thread/INFO]: TheSafirux issued server command: /tp juan
+[23:43:26] [Async Chat Thread - #1/INFO]: [Not Secure] <TheSafirux> 16 ~ 96
+[23:45:25] [Server thread/INFO]: juan has made the advancement [Those Were the Days]
+[23:45:41] [Server thread/INFO]: TheSafirux was shot by Piglin
+[23:45:50] [Server thread/INFO]: TheSafirux issued server command: /tp juan
+[23:46:14] [Server thread/INFO]: juan was slain by Piglin Brute
+[23:46:14] [Server thread/INFO]: TheSafirux was slain by Piglin
+[23:46:40] [Server thread/INFO]: TheSafirux issued server command: /tp 16 ~ 96
+[23:46:56] [Server thread/INFO]: TheSafirux issued server command: /tp TheSafirux juan
+[23:47:05] [Server thread/INFO]: TheSafirux issued server command: /tp 16 ~ 96
+[23:47:11] [Server thread/INFO]: TheSafirux issued server command: /tp juan TheSafirux
