@@ -272,6 +272,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-08-28 23:56:42 +0000",
+      "minecraft:piglin": "2025-08-31 23:50:20 +0000",
       "minecraft:enderman": "2025-08-31 23:41:05 +0000",
       "minecraft:spider": "2025-08-28 23:48:03 +0000",
       "minecraft:zombie": "2025-08-28 23:39:14 +0000",
@@ -1743,6 +1744,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-08-31 23:50:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-31 23:41:10 +0000"
@@ -1875,6 +1882,12 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-08-31 23:50:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-08-31 22:39:12 +0000"
@@ -2004,6 +2017,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-08-31 22:39:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-08-31 23:47:29 +0000"
     },
     "done": true
   },
