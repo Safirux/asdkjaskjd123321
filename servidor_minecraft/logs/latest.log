@@ -147,3 +147,13 @@
 [23:15:03] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:block.portal.ambient master @a ~ ~ ~ 2 1
 [23:15:48] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:entity.warden.ambient master @a ~ ~ ~ 2 1
 [23:16:31] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:entity.phantom.ambient master @a ~ ~ ~ 2 1
+[23:17:24] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:entity.elder_guardian.curse master @a ~ ~ ~ 2 1
+[23:17:55] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:entity.warden.ambient master @a ~ ~ ~ 2 1
+[23:18:30] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:music_disc.11 master @a ~ ~ ~ 2 1
+[23:21:23] [Server thread/INFO]: TheSafirux issued server command: /tp juan
+[23:21:25] [Server thread/INFO]: TheSafirux issued server command: /effect give @a minecraft:darkness 10 1 true
+[23:21:52] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:ambient.cave master @a ~ ~ ~ 2 1
+[23:22:04] [Server thread/INFO]: TheSafirux issued server command: /effect give @a minecraft:darkness 10 1 true
+[23:23:40] [Server thread/INFO]: TheSafirux issued server command: /effect give @a minecraft:darkness 10 1 true
+[23:25:29] [Server thread/INFO]: TheSafirux issued server command: /playsound minecraft:ambient.cave master @a ~ ~ ~ 2 1
+[23:26:34] [Server thread/INFO]: TheSafirux issued server command: /tp juan
