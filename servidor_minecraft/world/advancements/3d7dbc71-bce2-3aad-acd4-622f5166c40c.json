@@ -197,6 +197,7 @@
     "criteria": {
       "apple": "2025-08-30 00:41:30 +0000",
       "bread": "2025-08-28 23:35:19 +0000",
+      "golden_apple": "2025-09-01 00:32:14 +0000",
       "cooked_mutton": "2025-08-29 00:06:56 +0000",
       "potato": "2025-08-30 00:27:00 +0000",
       "golden_carrot": "2025-09-01 00:01:33 +0000",
@@ -1889,6 +1890,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-09-01 00:27:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-08-31 23:39:24 +0000"
@@ -2081,6 +2088,12 @@
     },
     "done": true
   },
+  "minecraft:end/root": {
+    "criteria": {
+      "entered_end": "2025-09-01 00:27:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 23:37:31 +0000"
@@ -2177,6 +2190,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-09-01 00:27:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/cherry_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-31 23:41:10 +0000"
@@ -2246,6 +2265,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-08-31 23:45:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_end": {
+    "criteria": {
+      "entered_end": "2025-09-01 00:27:28 +0000"
     },
     "done": true
   },
