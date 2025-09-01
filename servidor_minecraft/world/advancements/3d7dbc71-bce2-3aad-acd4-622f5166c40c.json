@@ -199,6 +199,7 @@
       "bread": "2025-08-28 23:35:19 +0000",
       "cooked_mutton": "2025-08-29 00:06:56 +0000",
       "potato": "2025-08-30 00:27:00 +0000",
+      "golden_carrot": "2025-09-01 00:01:33 +0000",
       "carrot": "2025-08-30 00:27:56 +0000"
     },
     "done": false
@@ -275,8 +276,10 @@
       "minecraft:piglin": "2025-08-31 23:50:20 +0000",
       "minecraft:enderman": "2025-08-31 23:41:05 +0000",
       "minecraft:spider": "2025-08-28 23:48:03 +0000",
+      "minecraft:piglin_brute": "2025-08-31 23:56:20 +0000",
       "minecraft:zombie": "2025-08-28 23:39:14 +0000",
-      "minecraft:zombie_villager": "2025-08-29 22:24:13 +0000"
+      "minecraft:zombie_villager": "2025-08-29 22:24:13 +0000",
+      "minecraft:hoglin": "2025-09-01 00:00:18 +0000"
     },
     "done": false
   },
@@ -1744,6 +1747,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-01 00:00:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magma_block": {
     "criteria": {
       "has_magma_cream": "2025-08-31 23:50:09 +0000"
@@ -1753,6 +1762,24 @@
   "minecraft:recipes/transportation/dark_oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-31 23:41:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-01 00:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-09-01 00:00:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2025-09-01 00:00:20 +0000"
     },
     "done": true
   },
@@ -1809,6 +1836,12 @@
       "minecraft:warped_forest": "2025-08-31 23:39:24 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-08-31 23:55:56 +0000"
+    },
+    "done": true
   },
   "minecraft:nether/root": {
     "criteria": {
@@ -1900,9 +1933,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-01 00:00:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-01 00:00:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 23:37:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-01 00:00:21 +0000"
     },
     "done": true
   },
@@ -1942,6 +1993,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2025-09-01 00:00:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_chestplate": {
     "criteria": {
       "has_gold_ingot": "2025-08-31 23:37:31 +0000"
@@ -1954,9 +2011,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-01 00:00:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/mangrove_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-31 23:41:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2025-09-01 00:00:20 +0000"
     },
     "done": true
   },
@@ -2011,6 +2080,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-08-31 23:41:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-09-01 00:00:21 +0000"
     },
     "done": true
   },
