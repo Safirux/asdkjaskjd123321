@@ -21,3 +21,36 @@
 [00:13:08] [Server thread/INFO]: juan was fireballed by Blaze
 [00:13:21] [Server thread/INFO]: TheSafirux issued server command: /tp juan TheSafirux
 [00:17:14] [Server thread/INFO]: TheSafirux issued server command: /tp juan
+[00:18:27] [Server thread/INFO]: TheSafirux issued server command: /tp juan
+[00:18:48] [Server thread/INFO]: juan was slain by TheSafirux
+[00:19:16] [Server thread/INFO]: juan was slain by Enderman
+[00:19:44] [Server thread/INFO]: TheSafirux issued server command: /tp juan
+[00:24:10] [Async Chat Thread - #4/INFO]: [Not Secure] <TheSafirux> 724 ~ -1308
+[00:24:33] [Server thread/INFO]: TheSafirux issued server command: /gamemode creative
+[00:24:35] [Server thread/INFO]: TheSafirux issued server command: /tp 724 ~ -1308
+[00:24:39] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4187ms or 83 ticks behind
+[00:24:56] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[00:25:10] [Server thread/INFO]: TheSafirux has made the advancement [Eye Spy]
+[00:25:16] [Server thread/INFO]: TheSafirux issued server command: /gamemode creative
+[00:25:27] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[00:25:37] [Server thread/INFO]: TheSafirux issued server command: /gamemode creative
+[00:25:47] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[00:25:53] [Server thread/INFO]: TheSafirux issued server command: /gamemode creative
+[00:25:55] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[00:26:02] [Server thread/INFO]: TheSafirux issued server command: /gamemode survival
+[00:26:05] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[00:26:08] [Server thread/INFO]: TheSafirux issued server command: /gamemode survival
+[00:26:11] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[00:26:34] [Server thread/INFO]: TheSafirux issued server command: /gamemode survival
+[00:26:40] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[00:26:47] [Server thread/INFO]: TheSafirux issued server command: /gamemode survival
+[00:26:53] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[00:26:55] [Server thread/INFO]: TheSafirux issued server command: /gamemode creative
+[00:27:16] [Server thread/INFO]: TheSafirux issued server command: /gamemode spectator
+[00:27:17] [Server thread/INFO]: TheSafirux issued server command: /gamemode survival
+[00:27:22] [Server thread/INFO]: TheSafirux issued server command: /tp juan TheSafirux
+[00:27:23] [Server thread/INFO]: juan has made the advancement [Eye Spy]
+[00:27:28] [Server thread/INFO]: juan has made the advancement [The End?]
+[00:27:28] [Server thread/INFO]: TheSafirux has made the advancement [The End?]
+[00:27:30] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[00:27:30] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
